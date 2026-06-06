@@ -1,6 +1,6 @@
 # Hi, I'm James Elijah 👋
 
-Web Developer | WordPress Expert | SaaS Builder
+Fullstack Web Developer
 
 I'm a passionate developer focused on building modern, responsive, and scalable web applications. I work with both no-code and full-stack technologies to create solutions that help businesses grow online.
 
