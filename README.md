@@ -1,4 +1,4 @@
-# Hi, I'm James Elijah 👋
+# Hi, I'm elite.dev 👋
 
 Fullstack Web Developer
 
